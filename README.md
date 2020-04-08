@@ -4,7 +4,8 @@ Creation, Data Extration and Data Loading of Amazon Redshift data warehouse with
 # Files Description
 * create_tables.py: to create tables for extracted data
 * etl.py: to process the ETL pipeline
-* sql_queries.py: to store the queries drop and create tables and insert extracted data to corresponding tables
+* sql_queries.py: to store the queries drop and create tables and insert extracted data to corresponding tables      
+
 (because of the credentials, dl.cfg is not included in this repository. That file is used to store access key and secret to access S3)
 
 # Project Description and Purpose
